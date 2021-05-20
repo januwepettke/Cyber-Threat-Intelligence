@@ -6,3 +6,9 @@ The intention of this repository is to collect and store information on cyber th
 When using the repository, users need to understand that the reports contained are not subject to any updates. This means that newer research and analysis might provide additional information or deviating assessments. Therefore, and independent research is highly advisable. 
 
 This repository contains mainly finished information/intelligence of third parties with operational or strategic value. Tactical, technical or machine-readable threat intelligence (or information or data) are not provided and not the intention of this repsoitory. 
+
+Some useful sources of information and reference have been:
+
+https://malpedia.caad.fkie.fraunhofer.de/
+https://vxug.fakedoma.in/
+https://apt.thaicert.or.th/cgi-bin/aptgroups.cgi
