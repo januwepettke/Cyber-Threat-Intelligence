@@ -12,3 +12,4 @@ Some useful sources of information and reference have been:
 https://malpedia.caad.fkie.fraunhofer.de/
 https://vxug.fakedoma.in/
 https://apt.thaicert.or.th/cgi-bin/aptgroups.cgi
+https://scadahacker.com/library/index.html#revisionhistory
